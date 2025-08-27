@@ -9,6 +9,9 @@
   <a href="https://github.com/nonPlanB">
     <img src="https://img.shields.io/badge/GitHub-nonPlanB-orange?logo=github" alt="GitHub" title="GitHub" />
   </a>
+  <a href="https://blog.csdn.net/qq_53127249?type=blog">
+    <img src="https://img.shields.io/badge/CSDN-%E6%B2%A1%E6%9C%89%E6%8C%82%E7%A7%91%E5%8F%AF%E8%A8%80-gold?logo=csdn" alt="CSDN" title="CSDN" />
+  </a>
   <a href="https://space.bilibili.com/1323131131">
     <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%AD%A6%E6%9C%AF%E5%AB%AA%E6%AF%90-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" />
   </a>
