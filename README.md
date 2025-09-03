@@ -13,7 +13,7 @@
 <p>
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonPlanB&hide=scss" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonPlanB&hide=php,css" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nonPlanB&show_icons=true" />
 </div>
 
